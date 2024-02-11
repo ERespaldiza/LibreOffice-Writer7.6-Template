@@ -8,14 +8,16 @@ Tested on:
 
 ## Template's theme
 
-OPen [LibreofficeTemplate.pdf](https://github.com/ERespaldiza/LibreOffice-Writer7.6-Template/raw/main/LibreOfficeTemplate.pdf) to see the template's theme and instructions.
+OPen [LibreofficeTemplate.pdf](https://github.com/ERespaldiza/LibreOffice-Writer7.6-Template/blob/main/LibreOfficeTemplate.pdf) to see the template's theme and instructions.
 
 ## Screenshots
 
-- ![Cover](https://github.com/ERespaldiza/Libreoffice-Writer7.6-Template/screenshots/cover.png?raw=true)
 
-- ![Table of Contents](https://github.com/ERespaldiza/Libreoffice-Writer7.6-Template/screenshots/table_of_contents.png?raw=true)
+- ![Cover](https://github.com/ERespaldiza/Libreoffice-Writer7.6-Template/blob/main/screenshots/cover.png)
 
-- ![Block Quotes](https://github.com/ERespaldiza/Libreoffice-Writer7.6-Template/screenshots/block_quotes.png?raw=true)
+- ![Table of Contents](https://github.com/ERespaldiza/Libreoffice-Writer7.6-Template/blob/main/screenshots/table_of_contents.png)
+
+- ![Block Quotes](https://github.com/ERespaldiza/Libreoffice-Writer7.6-Template/blob/main/screenshots/block_quotes.png)
+  
 
 
