@@ -4,7 +4,9 @@ A clean LibreOffice Write template to create documentation and technical notes.
 
 Tested on:
 - LibreOffice: 7.6
-- Debian 12 Linux and macOS Sonoma
+- OS:
+  - macOS Sonoma
+  - Debian 12 (Using `Noto Color Emoji` font for the icons)
 
 ## Template's theme
 
